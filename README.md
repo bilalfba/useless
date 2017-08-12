@@ -1,7 +1,7 @@
 # Useless Box Code
 The Code for the useless box
 
-```
+```python
 
 #include <Servo.h>
 
